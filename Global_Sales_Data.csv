@@ -1,0 +1,29 @@
+Region,Country,Product_Category,Sales_Rep,Quarter,Year,Revenue,Units_Sold,Customer_Satisfaction,Marketing_Spend
+North America,USA,Electronics,John Smith,Q1,2023,125000,450,4.2,15000
+North America,USA,Clothing,Sarah Johnson,Q1,2023,85000,320,4.0,12000
+North America,Canada,Electronics,Mike Brown,Q1,2023,95000,340,4.1,11000
+Europe,UK,Electronics,Emma Wilson,Q1,2023,110000,380,4.3,13000
+Europe,Germany,Clothing,Hans Mueller,Q1,2023,78000,290,3.9,10000
+Asia,Japan,Electronics,Yuki Tanaka,Q1,2023,135000,480,4.4,16000
+Asia,China,Clothing,Li Wei,Q1,2023,92000,350,4.0,13500
+North America,USA,Electronics,John Smith,Q2,2023,142000,520,4.3,17000
+North America,USA,Clothing,Sarah Johnson,Q2,2023,97000,380,4.1,14000
+North America,Canada,Electronics,Mike Brown,Q2,2023,108000,390,4.2,12500
+Europe,UK,Electronics,Emma Wilson,Q2,2023,125000,430,4.4,15000
+Europe,Germany,Clothing,Hans Mueller,Q2,2023,89000,320,4.0,11500
+Asia,Japan,Electronics,Yuki Tanaka,Q2,2023,152000,540,4.5,18000
+Asia,China,Clothing,Li Wei,Q2,2023,105000,410,4.2,15000
+North America,USA,Electronics,John Smith,Q3,2023,158000,580,4.4,19000
+North America,USA,Clothing,Sarah Johnson,Q3,2023,112000,440,4.2,16000
+North America,Canada,Electronics,Mike Brown,Q3,2023,118000,420,4.3,13800
+Europe,UK,Electronics,Emma Wilson,Q3,2023,138000,480,4.5,17000
+Europe,Germany,Clothing,Hans Mueller,Q3,2023,98000,360,4.1,13000
+Asia,Japan,Electronics,Yuki Tanaka,Q3,2023,168000,600,4.6,20000
+Asia,China,Clothing,Li Wei,Q3,2023,118000,470,4.3,17000
+North America,USA,Electronics,John Smith,Q4,2023,175000,640,4.5,21000
+North America,USA,Clothing,Sarah Johnson,Q4,2023,128000,500,4.3,18000
+North America,Canada,Electronics,Mike Brown,Q4,2023,132000,470,4.4,15500
+Europe,UK,Electronics,Emma Wilson,Q4,2023,155000,530,4.6,19000
+Europe,Germany,Clothing,Hans Mueller,Q4,2023,115000,420,4.2,15000
+Asia,Japan,Electronics,Yuki Tanaka,Q4,2023,185000,660,4.7,22000
+Asia,China,Clothing,Li Wei,Q4,2023,135000,530,4.4,19000
